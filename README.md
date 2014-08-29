@@ -4,7 +4,7 @@
 
 ## Demo
 
-[Check it live!](http://karlgroves.github.io/img-zoom)
+[Check it live!](https://rawgit.com/karlgroves/img-zoom-component/gh-pages/index.html)
 
 ## Install
 
