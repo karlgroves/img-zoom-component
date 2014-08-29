@@ -1,0 +1,19 @@
+{
+    "name": "img-zoom",
+    "version": "0.0.0",
+    "description": "Adds image alt text as a caption for the image",
+    "license": "MIT",
+    "main": "dist/img-zoom.html",
+    "keywords": [
+        "polymer",
+        "web-components"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "polymer": "Polymer/polymer#~0.3.3"
+    }
+}
